@@ -1,0 +1,3 @@
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\publish\RawPrint.dll
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\publish\RawPrint.deps.json
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\publish\RawPrint.pdb

@@ -1,0 +1,11 @@
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\RawPrint.deps.json
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\RawPrint.dll
+C:\proyecto pw2022\Blog\Net8\RawPrint\bin\Release\net8.0\RawPrint.pdb
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.AssemblyInfoInputs.cache
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.AssemblyInfo.cs
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.csproj.CoreCompileInputs.cache
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.dll
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\refint\RawPrint.dll
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\RawPrint.pdb
+C:\proyecto pw2022\Blog\Net8\RawPrint\obj\Release\net8.0\ref\RawPrint.dll
