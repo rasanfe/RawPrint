@@ -1,0 +1,12 @@
+## .NET / Visual Studio — ignorar solo lo regenerable
+bin/
+obj/
+publish/
+.vs/
+*.user
+*.pdb
+*.suo
+*.cache
+TestResults/
+[Bb]in/
+[Oo]bj/
