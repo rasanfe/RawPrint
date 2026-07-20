@@ -10,3 +10,5 @@ publish/
 TestResults/
 [Bb]in/
 [Oo]bj/
+# lanzador local de Claude (no versionar)
+iniciar_claude.bat
